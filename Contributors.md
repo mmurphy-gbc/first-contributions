@@ -40,6 +40,7 @@
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - wdbrk
+Arina Mirzakhani
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
 - SkMave
